@@ -1,0 +1,17 @@
+/*.launch
+/deployment/
+/packages/
+/releases/
+/.mendix-cache/
+/.classpath
+/.project
+/modeler-merge-marker
+/project-settings.user.json
+/javasource/*/proxies/
+/javasource/system/
+/**/node_modules/
+!/javascriptsource/**/node_modules/
+/nativemobile/builds/
+/mx-stripe-connector.mpr.bak
+/mx-stripe-connector.mpr.lock
+/.DS_Store
