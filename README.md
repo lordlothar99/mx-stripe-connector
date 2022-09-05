@@ -1,5 +1,7 @@
-# Blank Web App
+# Stripe connector
 
-House of [Blank Web App](https://marketplace.mendix.com/link/component/51830)
+Mendix integration with [Stripe](https://stripe.com/). 
 
-For collaboration with Atlas or Widgets, please visit [Widgets Resources](https://github.com/mendix/widgets-resources)
+## Stripe API doc
+
+You can find Stripe API doc [here](https://stripe.com/docs/api)
